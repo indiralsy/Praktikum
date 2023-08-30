@@ -2,10 +2,74 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Masak-masak</title>
+    <title>Pancasila</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            padding: 10px;
+        }
+        .container1 {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 20px;
+            padding: 10px;
+        }
+        .image {
+            margin-right: 20px;
+        }
+    </style>
 </head>
+<body>
+    <h1 align="center">PANCASILA</h1>
+    <div class="container">
+        <div class="image">
+            <img src="c:\Users\indir\Downloads\bintang.png" alt="Sila 1" width="150" height="150">
+        </div>
+        <div class="text">
+            <h2>Ketuhanan yang maha esa</h2>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="text">
+            <h2>Kemanusiaan yang adil dan beradab   </h2>
+        </div>
+        <div class="image">
+            <img src="c:\Users\indir\Downloads\rantai.png" alt="Sila 2" width="150" height="150">
+        </div>
+    </div>
+    <div class="container">
+        <div class="image">
+            <img src="c:\Users\indir\Downloads\pohon beringin.png" alt="Sila 3" width="150" height="150">
+        </div>
+        <div class="text">
+            <h2>Persatuan Indonesia</h2>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="text">
+            <h2>Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan</h2>
+        </div>
+        <div class="image">
+            <img src="c:\Users\indir\Downloads\banteng.png" alt="Sila 4" width="150" height="150">
+        </div>
+    </div>
+    <div class="container">
+        <div class="image">
+            <img src="c:\Users\indir\Downloads\padi kapas.jpeg" alt="Sila 5" width="150" height="150">
+        </div>
+        <div class="text">
+            <h2>Keadilan sosial bagi seluruh rakyat Indonesia</h2>
+        </div>
+    </div>
+</body>
+<br>
+<hr>
+<!--Tugas 2 -->
+<br>
 <body>
     <h2 style="text-align: center;">Cara Membuat Nasi Goreng Daging</h1>
     <p style="font-size: 18px;">
@@ -71,5 +135,245 @@
         </ol>
     </p>
     <hr>
-</body>
+    <br>
+    <br>
+    <!-- Tugas 3 -->
+
+    <body>
+        <table width = "50%" height = "50%" border="1" style="border-collapse: collapse;"> 
+            <thead>
+                <tr>
+                    <th rowspan="3">NIS</th>
+                    <th rowspan="3">Nama</th>
+                    <th colspan="9">Bulan</th>
+                </tr>
+    
+                <tr>
+                    <th colspan="3">Januari</th>
+                    <th colspan="3">Februari</th>
+                    <th colspan="3">Maret</th>
+                </tr>
+    
+                <tr>
+                    <th>S</th>
+                    <th>I</th>
+                    <th>A</th>
+                    <th>S</th>
+                    <th>I</th>
+                    <th>A</th>
+                    <th>S</th>
+                    <th>I</th>
+                    <th>A</th>
+                </tr>
+            </thead>
+    
+            <tbody>
+                <tr style="text-align: center;">
+                    <td>111</td>
+                    <td>Zulkarnaen</td>
+                    <td>0</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+    
+                <tr style="text-align: center;">
+                    <td>112</td>
+                    <td>Zulkifli</td>
+                    <td>10</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>21</td>
+                    <td>9</td>
+                    <td>0</td>
+                    <td>20</td>
+                    <td>30</td>
+                    <td>2</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+    <br>
+    <hr>
+    <hr>
+
+    <!-- Tugas 4 -->
+    
+    <body>
+        
+        <br>
+       
+        <h3>
+            <p style="text-align: center;">KARTU KELUARGA</p>
+            <p style="text-align: center;">No. 17654321234</p>
+        </h3>
+        <br>
+       
+    
+        <table width="100%" border="1" cellpading="9"
+        style="border-collapse: collapse;">
+    
+        <thead>
+    <tr>
+        <th>No</th>
+        <th width="20%" rowspan="2">Nama Lengkap</th>
+        <th width="10%" rowspan="2">NIK</th>
+        <th rowspan="2">Jenis Kelamin</th>
+        <th rowspan="2">Tempat Lahir</th>
+        <th rowspan="2">Tanggal Lahir</th>
+        <th rowspan="2">Agama</th>
+        <th rowspan="2">Pendidikan</th>
+        <th rowspan="2">Jenis Pekerjaan</th>
+    </tr>
+        </thead>
+        <tbody>
+    
+            <tr>
+                <td style="text-align: center;"></td>
+                <td style="text-align: center;">1</td>
+                <td style="text-align: center;">2</td>
+                <td style="text-align: center;">3</td>
+                <td style="text-align: center;">4</td>
+                <td style="text-align: center;">5</td>
+                <td style="text-align: center;">6</td>
+                <td style="text-align: center;">7</td>
+                <td style="text-align: center;">8</td>
+               </tr>
+    
+           <tr>
+            <td>1.</td>
+            <td>USUKEK HACIKULE</td>
+            <td>654321</td>
+            <td>LAKI - LAKI</td>
+            <td>JOMBANG</td>
+            <td>01-01-2001</td>
+            <td>ISLAM</td>
+            <td>DIPLOMA IV</td>
+            <td>WIRASWASTA</td>
+           </tr>
+           
+           <tr>
+            <td>2.</td>
+            <td>POPIPOOP</td>
+            <td>456789023</td>
+            <td>PEREMPUAN</td>
+            <td>JAKARTA</td>
+            <td>02-02-2002</td>
+            <td>ISLAM</td>
+            <td>SARJANA MUDA</td>
+            <td>MENGURUS RUMAH TANGGA</td>
+           </tr>
+    
+           <tr>
+            <td>3.</td>
+            <td>CUPIPOYYY</td>
+            <td>9876545678</td>
+            <td>LAKI-LAKI</td>
+            <td>BLITAR</td>
+            <td>03-03-2003</td>
+            <td>ISLAM</td>
+            <td>BELUM SEKOLAH</td>
+            <td>BELUM BEKERJA</td>
+           </tr>
+    
+           <tr>
+            <td>4.</td>
+            <td>ASHEIN MALIKA</td>
+            <td>121206054</td>
+            <td>PEREMPUAN</td>
+            <td>BLITAR</td>
+            <td>24-11-2006</td>
+            <td>ISLAM</td>
+            <td>BELUM SEKOLAH</td>
+            <td>BELUM BEKERJA</td>
+           </tr>    
+           
+        </tbody>
+    
+        <table width="100%" border="1" cellpading="9"
+        style="border-collapse: collapse;">
+        <br>
+        <thead>
+            <tr>
+                <th rowspan="2">No</th>
+                <th rowspan="2">Status Perkawinan</th>
+                <th rowspan="2">Status Hubugan Dalam Keluarga</th>
+                <th rowspan="2">Kewarganegaraan</th>
+                <th colspan="2">Dokumen Imigrasi</th>
+                <th colspan="2">Nama Orang Tua</th>
+            </tr>
+    
+            <tr>
+                <th>No/. Paspor</th>
+                <th>No. KITAP</th>
+                <th>Ayah</th>
+                <th>Ibu</th>
+            </tr>
+        </thead>
+    
+        <tbody>
+            <tr>
+                <td style="text-align: center;"></td>
+                <td style="text-align: center;">9</td>
+                <td style="text-align: center;">10</td>
+                <td style="text-align: center;">11</td>
+                <td style="text-align: center;">12</td>
+                <td style="text-align: center;">13</td>
+                <td style="text-align: center;">14</td>
+                <td style="text-align: center;">15</td>
+               </tr>
+    
+               <tr>
+                <td>1.</td>
+                <td>KAWIN</td>
+                <td>KEPALA KELUARGA</td>
+                <td>WNI</td>
+                <td></td>
+                <td></td>
+                <td>AKBAR</td>
+                <td>KEYSHA</td>
+               </tr>
+    
+               <tr>
+                <td>2.</td>
+                <td>KAWIN</td>
+                <td>ISTRI</td>
+                <td>WNI</td>
+                <td></td>
+                <td></td>
+                <td>MARKATAP</td>
+                <td>JUMIK</td>
+               </tr>
+    
+               <tr>
+                <td>3.</td>
+                <td>BELUM KAWIN</td>
+                <td>ANAK</td>
+                <td>WNI</td>
+                <td></td>
+                <td></td>
+                <td>USUKEK HACIKULE</td>
+                <td>POPIPOOP</td>
+               </tr>
+    
+               <tr>
+                <td>4.</td>
+                <td>BELUM KAWIN</td>
+                <td>ANAK</td>
+                <td>WNI</td>
+                <td></td>
+                <td></td>
+                <td>USUKEK HACIKULE</td>
+                <td>POPIPOOP</td>
+               </tr>
+        </tbody>
+    </body>
+
+
 </html>
+
